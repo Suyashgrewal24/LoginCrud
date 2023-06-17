@@ -1,0 +1,68 @@
+{
+  "user": [
+    {
+      "name": "Suyash Grewal",
+      "email": "suyashgrewal@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Joey tribianni",
+      "email": "Joey@gmail.com",
+      "password": "12345678",
+      "id": 2
+    }
+  ],
+  "crud": [
+    {
+      "receiptNo": "851799",
+      "receiptDate": "2023-06-17",
+      "personName": "Suyash Grewal",
+      "items": [
+        {
+          "description": "Chips",
+          "unit": "",
+          "rate": "",
+          "quantity": "2",
+          "discount": "20",
+          "amount": "100"
+        }
+      ],
+      "remark": "",
+      "totalQty": "2.00",
+      "totalAmt": "100.00",
+      "discount": "20.00",
+      "netAmt": "80.00",
+      "id": 1
+    },
+    {
+      "receiptNo": "400823",
+      "receiptDate": "2023-06-17",
+      "personName": "Akash mishra",
+      "items": [
+        {
+          "description": "kurkure",
+          "unit": "",
+          "rate": "",
+          "quantity": "2",
+          "discount": "20",
+          "amount": "320"
+        },
+        {
+          "description": "ice cream ",
+          "unit": "",
+          "rate": "",
+          "quantity": "1",
+          "discount": "15",
+          "amount": "95"
+        }
+      ],
+      "remark": "",
+      "totalQty": "3.00",
+      "totalAmt": "415.00",
+      "discount": "35.00",
+      "netAmt": "380.00",
+      "id": 2
+    }
+  ]
+}
